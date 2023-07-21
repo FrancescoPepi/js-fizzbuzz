@@ -1,0 +1,8 @@
+main {
+  background-color: #96b6c0;
+}
+
+[id*="box-"] {
+  width: calc((100% / 7) - 1rem);
+  aspect-ratio: 1/1;
+}
